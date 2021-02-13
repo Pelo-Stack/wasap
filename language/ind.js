@@ -215,10 +215,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *${prefix}setppbot*
 ┣━━⊱ *THANGKS TO* ⊰━━┫
 ┃
-┣⊱ *AFFIS JUNIANTO* <dev>
-┣⊱ *FADHIL GRAPHY* <partner>
-┣⊱ *MHANKBARBARS* <sc ori>
-┣⊱ *MYBOT TEAM* <team>
+┣⊱ *ALIF MAULANA P* <owner>
 ┃
 ┣⊱ NOTE : *JANGAN SPAM OM*
 ┃ 
