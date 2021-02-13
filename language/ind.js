@@ -136,6 +136,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *${prefix}ttp*
 ┣⊱ *${prefix}stickerhide* <text>
 ┣⊱ *${prefix}emoji*
+┣⊱ *${prefix}toimg*
 ┣━━⊱  *FUN MENU*  ⊰━━━┫
 ┣⊱ *${prefix}lirik* <text>
 ┣⊱ *${prefix}artinama>
